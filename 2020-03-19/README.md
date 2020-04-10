@@ -13,7 +13,7 @@
 |7| 胡联粤 | 广东技术师范学院 | [未来杯房产租金预测](Document/胡联粤_房产租金预测未来杯方案.pptx)|
 |8| 刘全 | 中科院 | [基于DCGAN的人脸生成](Document/DCGAN.pptx)|
 |9| 邓建龙 | AI部门 | [从零开始，手把手教你打造语音识别系统](https://blog.csdn.net/weixin_39380002/article/details/105083443)|
-|10| 杨海韵 | AI部门 | [从数据打标签到建模，从QA到系统性知识抽取方法](2020-03-26/Document/海韵TGIF.pptx)|
+|10| 杨海韵 | AI部门 | [从数据打标签到建模，从QA到系统性知识抽取方法](../2020-03-26/Document/海韵TGIF.pptx)|
 
 
 
