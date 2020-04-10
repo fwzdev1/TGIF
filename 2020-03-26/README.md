@@ -1,19 +1,18 @@
-# TGIF 2020-03-26
-![](Document/TGIF.20200326.00.png)
+# TGIF 2020-03-26 Talk is cheap? Show me the code...
+![](Document/TGIF.20200326.00.png "")
 
 
 | 序号 | 姓名 | 机构 | 主题 |
 | ---- | ---- | ----|-----|
-|1| 招晓贤 | AI部门 | [基于深度学习的舆情行业情感分析及Demo展示](https://github.com/weijiang2009/URun.ResearchPrototype/tree/dev/People/Xiaoxian/NLP%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/Transformer%E7%AC%94%E8%AE%B0)|
-|2| 赵杰超 | 澳大利亚国立大学 | PointRend 提升图像分割效果 |
-|3| 袁耀峰 | 广东工业大学 | [mmdetection目标检测框架的使用及扩展介绍](Document/mmdetection目标检测框架使用及扩展.pdf) |
-|4| 陈周 | 大数据部门 | [Apache Kylin, 大数据分析型数据仓库](Document/Kylin.md)|
-|5| 李艺如 | 新加坡国立大学 | [基于深度学习的中国象棋棋盘识别](Document/ChineseChessBoardRecognization.pdf)|
-|6| 陈昌树 | AI部门 | [从零开始，手把手教你打造语音合成系统](https://zhuanlan.zhihu.com/p/114212581?utm_source=wechat_session&utm_medium=social&utm_oi=606604221169143808&from=singlemessage)|
-|7| 胡联粤 | 广东技术师范学院 | [未来杯房产租金预测](Document/胡联粤_房产租金预测未来杯方案.pptx)|
-|8| 刘全 | 中科院 | [基于DCGAN的人脸生成](Document/DCGAN.pptx)|
-|9| 邓建龙 | AI部门 | [从零开始，手把手教你打造语音识别系统](https://blog.csdn.net/weixin_39380002/article/details/105083443)|
-|10| 杨海韵 | AI部门 | 从数据打标签到建模，从QA到系统性知识抽取方法|
+|1| 邓建龙 | AI部门 | [从零开始，手把手教你打造语音识别系统](https://blog.csdn.net/weixin_39380002/article/details/105083443)|
+|2| 文硕 | 网易游戏 | [业界顶级AI项目与产品管理痛点突破](Document/文硕.20200326.pptx) |
+|3| 杨海韵 | AI部门 | [从数据标签到建模，从QA到系统性知识抽取方法](Document/海韵TGIF.pptx) |
+|4| 徐晶晶 | 北京大学 | [文本生成与对抗学习](Document/TGIF分享演讲许晶晶.20200326.pdf)|
+|5| 袁耀峰 | 广东工业大学 | 电子面单、二维码、条形码的检测定位 |
+|6| 李艺如 | 新加坡国立大学 | [高分辨率深度神经网络HRNet](Document/HRNet-Lyr.pdf)|
+|7| 陈卓 | 盟讯科技 | [基于深度时空残差网络的区域人流密度预测](Document/陈卓TGIF分享演讲.20200326.pptx)|
+|8| 李超 | 新蛋科技 | 基于深度学习的表格识别 |
+|9| 刘全 | 中科院 | [GAN核心生成逻辑源代码剖析](Document/Generative_Adversarial_Network.py)|
 
 
 
