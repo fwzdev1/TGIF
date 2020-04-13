@@ -1,5 +1,5 @@
 # TGIF 2020-04-02 God Damn! 那该死的AI客户需求
-![](Document/TGIF.20200319.00.png "")
+![](Documents/2.jpg "")
 
 
 | 序号 | 姓名 | 机构 | 主题 |
